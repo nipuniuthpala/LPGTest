@@ -4,12 +4,12 @@ For the Frontend test scenarios I have used Cypress tool with Cucumber installat
 
 Wrote test scenarios as Feature files 
 
-Cover the flows of checking out holidya passes in different ways
+Cover the flows of checking out holiday passes in different ways/flows
 
 
   -User should be able to continue to checkout using the buy button and go to the payment screen 
   
-  -User should be able to checkout from home page  after selecting an atrraction
+  -User should be able to checkout from home page  after selecting an attraction
   
   -User should be able to checkout from inclusive page 
   
@@ -17,7 +17,7 @@ Cover the flows of checking out holidya passes in different ways
   
   
   Also there are many scenarios can be automated like filtering, sorting selecting item from the filtered list and checkout the items etc.
-  Also field validations, email submissions etc.
+  Also field validations on different screens/error messages, email submissions etc.
 
 How to Execute 
 
@@ -54,6 +54,6 @@ OR you can execute the npx cypress run command if you are runnig through headles
 ![title](https://github.com/nipuniuthpala/images/blob/master/Screenshot%202021-04-17%20at%2019.27.12.png)
 
 
-Video can be found in the videos folder on the execution. Refer Test.Feature.mp4
+Video can be found in the videos folder on the execution. Refer LPGTest/cypress/videos/Cucumber/Test.feature.mp4
 
 
