@@ -1,0 +1,12 @@
+{
+
+    "video": true,
+    "screenshotsFolder": "/Users/nipunig/report/",
+    "baseUrl" : "https://gocity.com/boston/en-us/products/all-inclusive",
+    "env":{
+        "username":"admin"
+    },
+    "projectId": "ysysvz",
+    "reporter": "cypress-multi-reporters"
+   
+}
