@@ -71,5 +71,3 @@ If you select "Less crowd" filter which does not gave any data in the Attraction
 
 
 
-![title](https://github.com/nipuniuthpala/images/blob/master/Screenshot%202021-04-17%20at%2019.27.12.png)
-
