@@ -1,8 +1,8 @@
 # LPGTest
 
-For the Frontend test scenarios I have used Cypress tool with Cucumber installations 
+For the Frontend test scenarios I have used Cypress tool with Cucumber installations used javascript.
 
-Wrote test scenarios as Feature files 
+Wrote test scenarios as Feature files using gherkin cucumber.
 
 Cover the flows of checking out holiday passes in different ways/flows
 
@@ -16,10 +16,15 @@ Cover the flows of checking out holiday passes in different ways/flows
   -User should be able to delete the pass from the cart
   
   
-  Also there are many scenarios can be automated like filtering, sorting selecting item from the filtered list and checkout the items etc.
-  Also field validations on different screens/error messages, email submissions etc.
+  Also there are many scenarios can be automated like filtering, sorting which can be coverd in API testing.
+  
+  Also should automate,
+  
+  selecting item from the filtered list and checkout the items etc.
+  
+  field validations on different screens/error messages, email submissions etc.
 
-How to Execute 
+# How to Execute 
 
 
 1 Download the git repo and extract the zip file.
@@ -56,4 +61,13 @@ OR you can execute the npx cypress run command if you are runnig through headles
 
 Video can be found in the videos folder on the execution. Refer LPGTest/cypress/videos/Cucumber/Test.feature.mp4
 
+#Issues Found during automation
+
+If you select "Less crowd" filter which does not gave any data in the Attractions page it continuesly shows loading.But in All inclusive page it shows a blank screen as there is no data.
+
+![title](https://github.com/nipuniuthpala/images/blob/master/Screenshot%202021-04-18%20at%2008.30.16.png)
+
+
+
+![title](https://github.com/nipuniuthpala/images/blob/master/Screenshot%202021-04-17%20at%2019.27.12.png)
 
