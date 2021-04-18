@@ -61,6 +61,8 @@ OR you can execute the npx cypress run command if you are runnig through headles
 
 Video can be found in the videos folder on the execution. Refer LPGTest/cypress/videos/Cucumber/Test.feature.mp4
 
+OR I have included the Docker files if you have docker installed and have a container should be able to run there too.
+
 #Issues Found during automation
 
 If you select "Less crowd" filter which does not gave any data in the Attractions page it continuesly shows loading.But in All inclusive page it shows a blank screen as there is no data.
